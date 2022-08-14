@@ -19,8 +19,13 @@ This static webpage is the beginning of the creation of the front-end of the Air
 
 ## Table of Contents
 *1. Index files**
+
 The index.html files are a build up of the content of the static webpage.
+
 *2. Styles folder**
+
 These are the [css stylesheets](./styles/) used for designing the webpage.
+
 *3. Images**
+
 [Images directory](./images) for all the logos and icons used in the project.
